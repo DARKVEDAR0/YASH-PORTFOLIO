@@ -26,6 +26,8 @@ body {
 .contact-link:hover {
     color: #a855f7;
     transform: translateX(3px);
+}
+    
 /* ================= BACKGROUND ================= */
 
 body::before {
